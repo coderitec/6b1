@@ -1,0 +1,9 @@
+aside{
+    color: fuchsia;
+    background-image: url(./favicon.jfif);
+    background-repeat: no-repeat;
+}
+
+img{
+    border: 20px ridge rgb(151, 30, 155);
+}
